@@ -125,7 +125,7 @@
         <nacos-client.version>2.0.0</nacos-client.version>
         <spring-security.version>5.3.10.RELEASE</spring-security.version>
         <grpc.version>1.33.1</grpc.version>
-        <rocketmq-client.version>4.9.3</rocketmq-client.version>
+        <rocketmq-client.version>5.1.0</rocketmq-client.version>
         <lz4-java.version>1.8.0</lz4-java.version>
         <elasticsearch-java.version>8.2.3</elasticsearch-java.version>
         <jackson-databind.version>2.12.3</jackson-databind.version>
