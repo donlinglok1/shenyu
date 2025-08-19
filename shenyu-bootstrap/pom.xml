@@ -27,7 +27,7 @@
 
     <properties>
         <nacos-discovery.version>2021.0.1.0</nacos-discovery.version>
-        <eureka-client.version>3.1.2</eureka-client.version>
+        <eureka-client.version>4.1.6</eureka-client.version>
     </properties>
 
     <dependencies>
@@ -298,7 +298,7 @@
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo</artifactId>
-            <version>2.7.15</version>
+            <version>3.3.0</version>
         </dependency>
         <!-- Dubbo Nacos registry dependency -->
         <!--  <dependency>
